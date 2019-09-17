@@ -1,5 +1,5 @@
 {
-    "name": "template-interop/twig-adapter",
+    "name": "template-interop/plates-adapter",
     "description": "League Plates adapter for template-interop/engine",
     "keywords": [
         "render",
